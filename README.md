@@ -7,7 +7,7 @@ I'm a sophomore computer science major at the **University of Minnesota**, speci
 
 ---
 
-## 🌠 **Expertise**
+## 🌟 **Expertise**
 I specialize in **AI/ML**, with hands-on experience in:
 
 - **Machine Learning**
