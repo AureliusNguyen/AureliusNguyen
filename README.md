@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Aurelius Nguyen
 
+---
 I'm a sophomore computer science major at the **University of Minnesota**, specializing in **Machine Learning** and **Artificial Intelligence**. I'm also passionate about **cybersecurity**, **quantum computing**, and often participate in **Hackathons** and **CTF competitions**.
 
 ![AI](https://img.shields.io/badge/AI-Exploring%20the%20future-blue)
