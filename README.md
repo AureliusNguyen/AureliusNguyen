@@ -4,7 +4,6 @@ I'm a sophomore computer science major at the **University of Minnesota**, speci
 ![AI](https://img.shields.io/badge/AI-Exploring%20the%20future-blue)
 ![Hackathons](https://img.shields.io/badge/Hackathons-Lover%20of%20challenges-orange)
 ![CTF](https://img.shields.io/badge/CTF-Puzzle%20solver-critical)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learner-green)
 
 ---
 
