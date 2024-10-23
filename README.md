@@ -50,4 +50,4 @@ I love participating in **Hackathons** and **CTF competitions** to push my probl
 ---
 
 By the way please read Usogui. It's the best manga ever fr fr 🙏🙏🙏:
-📖 **Read** [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)
+<p align="left">📖 **Read** [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)</p>
