@@ -45,9 +45,7 @@ I love participating in **Hackathons** and **CTF competitions** to push my probl
 
 ## **💬 Feel free to reach out to me!**
 
-<p align="left">
-  <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
 
 ---
 
