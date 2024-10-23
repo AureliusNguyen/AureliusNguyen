@@ -50,12 +50,6 @@ I'm exploring the cutting-edge world of **quantum computing**, delving into how 
 
 ---
 
-## 📈 **GitHub Stats**
-
-![Aurelius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-
----
-
 ## 💬 **Let's Connect!**
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/aurelius-nguyen)
