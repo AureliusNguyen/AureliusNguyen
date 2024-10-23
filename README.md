@@ -43,10 +43,10 @@ I love participating in **Hackathons** and **CTF competitions** to push my probl
 
 ---
 
-## 💬 **Let's Connect!**
+
 
 <p align="left">
-  <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />My LinkedIn</a>
+  <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />## 💬 **Let's Connect!**</a>
 </p>
 
 ---
