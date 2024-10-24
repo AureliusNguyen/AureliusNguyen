@@ -42,7 +42,7 @@ Here are the tools and technologies I use most frequently:
 
 ---
 
-## 💬 **Feel free to reach out to me!** <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="35" /></a>
+## 💬 **Feel free to reach out to me!** <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="35" /><a href="mailto:nguy5272@umn.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" width="35" /></a>  
 
 
 ## ❗ **If you are a comsci major, here's a manga that you would love fr fr 🙏🙏🙏** ##
