@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Aurelius Nguyen
+# 👋 Hi! I'm Aurelius Nguyen              
 I'm a sophomore computer science major at the **University of Minnesota**, specializing in **Machine Learning** and **Artificial Intelligence**. I'm also passionate about **cybersecurity**, **quantum computing**, and often participate in **Hackathons** and **CTF competitions**.
 
 ![AI](https://img.shields.io/badge/AI-Exploring%20the%20future-blue)
@@ -38,15 +38,14 @@ Here are the tools and technologies I use most frequently:
 ---
 
 ## ⚡ **Hackathons & CTF**
-I love participating in **Hackathons** and **CTF competitions** to push my problem-solving abilities to the limit. Every challenge is an opportunity to learn and grow. Whether it's cracking a tough algorithm or collaborating with others to build innovative solutions, I'm always eager to take on the next challenge.
+😼 I love participating in **Hackathons** and **CTF competitions** to push my problem-solving abilities to the limit. Every challenge is an opportunity to learn and grow. Whether it's cracking a tough algorithm or collaborating with others to build innovative solutions, I'm always eager to take on the next challenge.
 
 ---
 
-## **💬 Feel free to reach out to me!**
+## 💬 **Feel free to reach out to me!** <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="35" /></a>
 
-<a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
 
----
-
-If you are a comsci major, here's a manga that you would love fr fr 🙏🙏🙏  
+## ❗ **If you are a comsci major, here's a manga that you would love fr fr 🙏🙏🙏** ##
 📖 **Read** [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)
+
+---
