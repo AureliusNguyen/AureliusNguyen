@@ -46,7 +46,7 @@ Here are the tools and technologies I use most frequently:
 
 
 
-## ❗ **If you are a comsci major, here's a manga that you would love fr fr 🙏🙏🙏** ##
+## ❗ **This manga will change your life fr fr 🙏🙏🙏** ##
 📖 **Read** [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)
 
 ---
