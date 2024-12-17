@@ -49,7 +49,7 @@ Here are the tools and technologies I use most frequently:
 
 
 
-## ❗ **This manga will change your life fr fr 🙏🙏🙏** ##
+## ❗ **Best Manga ever fr fr 🙏🙏🙏** ##
 📖 **Read** [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)
 
 ---
