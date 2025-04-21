@@ -11,10 +11,12 @@ I'm a sophomore computer science major at the **University of Minnesota**, speci
 I specialize in **AI/ML**, with hands-on experience in:
 
 - **Machine Learning**
+- **Fedrated & Distributed Learning**
 - **Natural Language Processing (NLP)**
 - **Computer Vision (CV)**
 - **Generative Adversarial Networks (GANs)**
 - **Diffusion Models for gen AI**
+- **AI Engineering**
 
 ---
 
