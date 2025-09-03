@@ -15,7 +15,7 @@ I specialize in **AI/ML**, with hands-on experience in:
 - **Natural Language Processing (NLP)**
 - **Computer Vision (CV)**
 - **Generative Adversarial Networks (GANs)**
-- **Diffusion Models for gen AI**
+- **Diffusion Models**
 - **AI Engineering**
 
 ---
