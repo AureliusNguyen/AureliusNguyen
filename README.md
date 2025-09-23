@@ -43,8 +43,12 @@ Here are the tools and technologies I use most frequently:
 
 ---
 
-## ⚡ **Hackathons & CTF**
+## ⚡ **Competitive programming**
 😼 I love participating in **Hackathons** and **CTF competitions** to push my problem-solving abilities to the limit. Every challenge is an opportunity to learn and grow. Whether it's cracking a tough algorithm or collaborating with others to build innovative solutions, I'm always eager to take on the next challenge.
+
+- Capturing flags with [GopherHack](https://gopherhack.com/)
+- Exploiting cryptographic vulnerabilities at [CryptoHack](https://cryptohack.org/user/Madarame/)
+- Solving problems at [LeetCode](https://leetcode.com/u/aureliusnguyen/)
 
 ---
 
