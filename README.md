@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Aurelius Nguyen              
-I'm a sophomore computer science major at the **University of Minnesota**, specializing in **Machine Learning** and **Artificial Intelligence**. I'm also passionate about **cybersecurity**, **quantum computing**, and participate in **Hackathons** and **CTF competitions** on every weekends.
+I'm pursuing a Master's of Science in computer science at the **University of Minnesota**, specializing in **Machine Learning** and **Artificial Intelligence**. I'm also passionate about **cybersecurity**, **quantum computing**, and participate in **Hackathons** and **CTF competitions** on every weekends.
 
 ![AI](https://img.shields.io/badge/AI-Exploring%20the%20future-blue)
 ![Hackathons](https://img.shields.io/badge/Hackathons-Lover%20of%20challenges-orange)
@@ -11,6 +11,7 @@ I'm a sophomore computer science major at the **University of Minnesota**, speci
 I specialize in **AI/ML**, with hands-on experience in:
 
 - **Machine Learning**
+- **MLOps On the cloud (AWS)**
 - **Fedrated & Distributed Learning**
 - **Natural Language Processing (NLP)**
 - **Computer Vision (CV)**
