@@ -13,6 +13,7 @@ I specialize in **AI/ML**, with hands-on experience in:
 - **Machine Learning**
 - **MLOps On the cloud (AWS)**
 - **Fedrated & Distributed Learning**
+- **RAG & Multi-Agent Systems**
 - **Natural Language Processing (NLP)**
 - **Computer Vision (CV)**
 - **Generative Adversarial Networks (GANs)**
