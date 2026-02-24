@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Aurelius Nguyen              
+# 👋 Hi! I'm Aurelius Nguyen (Leo)              
 I'm pursuing a Master's of Science in computer science at the **University of Minnesota**, specializing in **Federated Learning**, **Machine Learning** and **Artificial Intelligence**. I'm also passionate about **cybersecurity**, **quantum computing**, and participate in **Hackathons** and **CTF competitions** on every weekends.
 
 ![AI](https://img.shields.io/badge/AI-Exploring%20the%20future-blue)
