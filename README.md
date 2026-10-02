@@ -1,63 +1,114 @@
-# 👋 Hi! I'm Aurelius Nguyen (Leo)              
-I'm pursuing a Master's of Science in computer science at the **University of Minnesota**, specializing in **Federated Learning**, **Machine Learning** and **Artificial Intelligence**. I'm also passionate about **cybersecurity**, **quantum computing**, and participate in **Hackathons** and **CTF competitions** on every weekends.
+<div align="center">
 
-![AI](https://img.shields.io/badge/AI-Exploring%20the%20future-blue)
-![Hackathons](https://img.shields.io/badge/Hackathons-Lover%20of%20challenges-orange)
-![CTF](https://img.shields.io/badge/CTF-Puzzle%20solver-critical)
+# 👋 Hi, I'm Aurelius Nguyen (Leo)
 
----
+### Distributed Systems · Agentic Systems
 
-## 🌟 **Expertise**
-I specialize in **AI/ML**, with hands-on experience in:
+**Integrated B.S./M.S. in Computer Science @ University of Minnesota**
 
-- **Machine Learning**
-- **MLOps On the cloud (AWS)**
-- **Fedrated & Distributed Learning**
-- **RAG & Multi-Agent Systems**
-- **Natural Language Processing (NLP)**
-- **Computer Vision (CV)**
-- **Generative Adversarial Networks (GANs)**
-- **Diffusion Models**
-- **AI Engineering**
+I’m interested in building reliable and efficient systems at the intersection of **distributed computing and agentic workflow**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurelius%20Nguyen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aurelius-nguyen)
+[![Website](https://img.shields.io/badge/Website-madarame.dev-000000?style=flat&logo=vercel&logoColor=white)](https://madarame.dev)
+[![Email](https://img.shields.io/badge/Email-nguy5272%40umn.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nguy5272@umn.edu)
+
+</div>
 
 ---
 
-## 💻 **Tech Stack**
-Here are the tools and technologies I use most frequently:
+## 🚀 About Me
+
+- 🎓 Pursuing an **Integrated B.S./M.S. in Computer Science** at the **University of Minnesota**
+- 🔬 Researching **distributed systems, ML systems, performance engineering, and agentic systems**
+- 🔐 Interested in **cybersecurity, applied cryptography, and adversarial machine learning**
+- 🏆 Vice President of the **UMN Competitive Programming Club**
+- 🧩 I enjoy **competitive programming, CTFs, hackathons, and systems problems**
+
+---
+
+## 🌟 Areas of Interest
+
+### Systems
+
+- Agentic Systems
+- Distributed Systems
+- High-Performance Computing
+- Parallel Computing
+- Cloud Computing
+- Performance Engineering
+- Fault Tolerance & Reliability
+
+### AI / ML
+
+- Federated Learning
+- Retrieval-Augmented Generation
+
+### Security
+
+- Cryptography
+- Reverse Engineering
+
+---
+
+## 💻 Tech Stack
+
+### Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="pyspark" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,go,python,ts,js" />
 </p>
 
+### Systems & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,redis,kafka,git" />
+</p>
+
+### Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+### Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,supabase" />
+</p>
 
 ---
 
-## ⚡ **Competitive programming**
-😼 I love participating in **Hackathons** and **CTF competitions** to push my problem-solving abilities to the limit. Every challenge is an opportunity to learn and grow. Whether it's cracking a tough algorithm or collaborating with others to build innovative solutions, I'm always eager to take on the next challenge.
+## ⚡ Competitive Programming & Security
 
-- Capturing flags with [GopherHack](https://gopherhack.com/)
-- Exploiting cryptographic vulnerabilities at [CryptoHack](https://cryptohack.org/user/Madarame/)
-- Solving problems at [LeetCode](https://leetcode.com/u/aureliusnguyen/)
+I enjoy solving problems that require a mix of **algorithms, systems thinking, and security knowledge**.
+
+- 🧠 Solving algorithmic problems on [LeetCode](https://leetcode.com/u/aureliusnguyen/)
+- 🚩 Participating in CTF competitions with [GopherHack](https://gopherhack.com/)
+- 🔐 Practicing cryptography challenges on [CryptoHack](https://cryptohack.org/user/Madarame/)
+- 🏆 Participating in Jane Street Puzzles and hackathons
+
+---
+
+## 💬 Reach Out
+
+I'm always happy to talk about **distributed systems, ML systems, research, competitive programming, or interesting engineering problems**.
+
+<p align="left">
+  <a href="https://linkedin.com/in/aurelius-nguyen" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" width="38" alt="LinkedIn" />
+  </a>
+  <a href="https://madarame.dev" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="38" width="38" alt="Website" />
+  </a>
+  <a href="mailto:nguy5272@umn.edu">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="38" width="38" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 💬 **Feel free to reach out to me!** <a href="https://linkedin.com/in/aurelius-nguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="35" /> <a href="mailto:nguy5272@umn.edu" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" height="40" width="35" /></a>  
+## ❗ Best Manga Ever fr fr 🙏🙏🙏
 
+📖 **Read [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)**
 
-
-## ❗ **Best Manga ever fr fr 🙏🙏🙏** ##
-📖 **Read** [Usogui](https://mangadex.org/title/a07320a4-afcd-413a-a451-d69a448d0c28/usogui)
-
----
+</div>
